@@ -1,118 +1,178 @@
-# 👋 Hi, I'm Sanket Borkar
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanket+Borkar;IT+Executive+Engineer;Cloud+%26+Network+Specialist" alt="Typing SVG" />
+</p>
 
-**IT Executive Engineer | Cloud & Network Infrastructure Specialist**
-
-[![Email](https://img.shields.io/badge/Email-sanketborkar72%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanketborkar72@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanket--borkar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-borkar)
-[![Phone](https://img.shields.io/badge/Contact-%2B91%209309182922-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+919309182922)
-
----
-
-## 🚀 About Me
-
-I'm an IT professional with expertise in **Cloud Computing**, **Network Infrastructure**, and **System Administration**. Currently working at **MetaMind Systems Pvt Ltd** as an IT Executive Engineer, I bridge the gap between on-premise infrastructure and AWS cloud services.
-
-- 🔧 **Experience**: 3+ years in IT support, cloud operations, and network management
-- ☁️ **AWS Certified** (Solutions Architect Associate + Cloud Practitioner)
-- 🌐 **CCNA Certified** | CCNP (In Progress - Expected AUG 2026)
-- 🖥️ Managing infrastructure for **150+ employees** across hybrid environments
+<p align="center">
+  <a href="mailto:sanketborkar72@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/sanket-borkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="tel:+919309182922"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact" /></a>
+  <a href="https://github.com/SanketBorkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🎯 About Me
 
-### ☁️ Cloud Platforms (AWS)
-| Service | Experience |
-|---------|------------|
-| EC2 | Instance health, SSH connectivity, console logs |
-| RDS | Database monitoring, routine checks |
-| S3 | Permissions management, object accessibility |
-| CloudWatch | Metrics, dashboards, alarms, log analysis |
-| IAM | Access control, security policies |
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔧 <strong>3+ years</strong> in IT support, cloud ops & network management</li>
+        <li>☁️ <strong>AWS Certified</strong> (Solutions Architect + Cloud Practitioner)</li>
+        <li>🌐 <strong>CCNA Certified</strong> | CCNP (Expected AUG 2026)</li>
+        <li>💼 Managing <strong>150+ employees</strong> across hybrid environments</li>
+        <li>📍 Based in <strong>India</strong></li>
+      </ul>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SanketBorkar&show_icons=true&theme=radical&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### ☁️ AWS Cloud
+<p>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=black" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazoniam&logoColor=white" />
+</p>
 
 ### 🌐 Networking
-- Cisco Meraki (MX75 Firewalls, Layer 3 Switches, SD-WAN)
-- VLAN Segmentation for security & traffic management
-- Protocols: TCP/IP, DNS, DHCP, OSPF, VPN, SNMP, SSH, SSL/TLS, IPsec
-- Cisco Secure Client VPN
-- eSSL Biometric & Hikvision CCTV systems
+<p>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meraki-0A2F6C?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLAN-0066CC?style=flat&logo=network&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPN-00A8FF?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP/IP-009639?style=flat&logo=internet&logoColor=white" />
+</p>
 
 ### 💻 Operating Systems
-- **Windows Server**: 2016, 2019, 2022 (AD, Group Policies, DNS/DHCP)
-- **Linux**: Ubuntu LTS (log analysis, systemctl, df/top/free, ps/kill)
-- **Windows 10/11**: OS imaging, application support, hardware diagnostics
-- **M365**: PC/Laptop troubleshooting
+<p>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_10/11-00A4EF?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/M365-0078D4?style=flat&logo=microsoftoffice&logoColor=white" />
+</p>
 
-### 🗄️ Storage & Databases
-- **SQL**: SELECT, JOIN, WHERE, GROUP BY queries
-- **NAS**: Synology DS223j with RAID configurations
-- **Active Directory**: User account management, MFA, password reset
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Synology_NAS-B5B5B6?style=flat&logo=synology&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-003B6F?style=flat&logo=microsoft&logoColor=white" />
+</p>
 
 ---
 
 ## 💼 Work Experience
 
-### IT Executive Engineer | MetaMind Systems Pvt Ltd
+### 🏢 IT Executive Engineer | MetaMind Systems Pvt Ltd
 
-**NOC Support & Monitoring**
+<details>
+<summary><strong>🔍 NOC Support & Monitoring</strong> (Click to expand)</summary>
+
 - Monitored system health, alerts, dashboards, and logs using standard monitoring tools
 - Performed L1/L2 troubleshooting, executed runbooks, and escalated issues as per SLA
-- Performed Linux troubleshooting (logs, services, disk/CPU/memory checks)
-- Ran basic SQL queries for data validation
-- Worked with AWS services (EC2, RDS, S3, CloudWatch) for routine checks
+- Linux troubleshooting (logs, services, disk/CPU/memory checks)
+- Ran SQL queries (SELECT, JOIN, WHERE) for data validation
+- AWS routine checks (EC2, RDS, S3, CloudWatch)
+</details>
 
-**Technical Support (L2/L3)**
-- Delivered comprehensive L2/L3 support for 150+ employees
+<details>
+<summary><strong>💻 Technical Support (L2/L3)</strong> (Click to expand)</summary>
+
+- L2/L3 support for **150+ employees**
 - Resolved complex software, hardware, and network issues
-- Provided expert Windows 10/11 and M365 troubleshooting
-- Served as primary IT help desk contact
+- Windows 10/11 and M365 expert troubleshooting
+- Primary IT help desk contact
+</details>
 
-**Server & System Administration**
-- Administered Windows Server (2016, 2019, 2022) and Linux Server (Ubuntu LTS)
-- Configured Active Directory, Group Policies, DNS/DHCP
-- Implemented NAS solutions (Synology DS223j) with RAID configurations
+<details>
+<summary><strong>⚙️ Server & System Administration</strong> (Click to expand)</summary>
 
-**Network Infrastructure Management**
-- Designed and administered corporate network using Cisco Meraki SD-WAN
-- Implemented VLAN segmentation for network security
-- Configured Cisco Secure Client VPN for remote access
+- Windows Server (2016, 2019, 2022) & Linux (Ubuntu LTS)
+- Active Directory, Group Policies, DNS/DHCP
+- NAS solutions (Synology DS223j) with RAID
+</details>
+
+<details>
+<summary><strong>🌍 Network Infrastructure Management</strong> (Click to expand)</summary>
+
+- Cisco Meraki SD-WAN (MX75 Firewalls, Layer 3 Switches)
+- VLAN segmentation for security
+- Cisco Secure Client VPN for remote access
+- eSSL Biometric & Hikvision CCTV
+</details>
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Status |
-|---------------|--------|
-| AWS Solutions Architect - Associate | ✅ Certified |
-| AWS Cloud Practitioner | ✅ Certified |
-| CCNA (Cisco Certified Network Associate) | ✅ Certified |
-| CCNP (Cisco Certified Network Professional) | 🔄 In Progress (Expected: May 2026) |
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNP_(In_Progress)-A8A8A8?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 ---
 
 ## 🎓 Education
 
 | Degree | University | Year |
-|--------|------------|------|
-| Master of Computer Applications (MCA) | Bharati University, Pune | 2021 - 2023 |
-| Bachelor of Computer Applications (BCA) | University of Pune, Pune | 2016 - 2019 |
+|:-------|:-----------|:-----|
+| 🎓 **Master of Computer Applications (MCA)** | Bharati University, Pune | 2021 - 2023 |
+| 🎓 **Bachelor of Computer Applications (BCA)** | University of Pune, Pune | 2016 - 2019 |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanketBorkar&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanketBorkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanketBorkar&theme=radical&hide_border=true&background=0D1117&stroke=00A8FF&ring=00A8FF&fire=FF9900&currStreakLabel=00A8FF" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketBorkar&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketBorkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00A8FF" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SanketBorkar&theme=radical&no-frame=true&row=1&column=4" width="50%" />
+</p>
+
+---
+
+## 🏆 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanketBorkar&label=Profile+Views&color=00A8FF&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-sanketborkar72%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sanketborkar72@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanket_Borkar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sanket-borkar)
-[![GitHub](https://img.shields.io/badge/GitHub-SanketBorkar-181717?style=for-the-badge&logo=github)](https://github.com/SanketBorkar)
+<p align="center">
+  <a href="mailto:sanketborkar72@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sanket-borkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SanketBorkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/919309182922"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
-> *"Bridging on-premise infrastructure with cloud innovation — one deployment at a time."*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <i>"Bridging on-premise infrastructure with cloud innovation — one deployment at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
