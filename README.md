@@ -22,13 +22,15 @@
         <li>☁️ <strong>AWS Certified</strong> (Solutions Architect + Cloud Practitioner)</li>
         <li>🌐 <strong>CCNA Certified</strong> | CCNP (Expected AUG 2026)</li>
         <li>💼 Managing <strong>150+ employees</strong> across hybrid environments</li>
-        <li>📍 Based in <strong>India</strong></li>
+        <li>📍 Based in <strong>Pune, India</strong></li>
       </ul>
     </td>
     <td align="center" width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SanketBorkar&show_icons=true&theme=radical&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true" width="100%" />
-    </td>
-  </tr>
+      <img src="https://avatars.githubusercontent.com/u/your-user-id?s=200" width="150" style="border-radius: 50%;" alt="Profile Picture" />
+      <br />
+      <sub><strong>Sanket Borkar</strong><br />IT Executive Engineer</sub>
+     </td>
+   </tr>
 </table>
 
 ---
@@ -50,14 +52,14 @@
   <img src="https://img.shields.io/badge/Meraki-0A2F6C?style=flat&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/VLAN-0066CC?style=flat&logo=network&logoColor=white" />
   <img src="https://img.shields.io/badge/VPN-00A8FF?style=flat&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP/IP-009639?style=flat&logo=internet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-009639?style=flat&logo=internet&logoColor=white" />
 </p>
 
 ### 💻 Operating Systems
 <p>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_10/11-00A4EF?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_10%2F11-00A4EF?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/M365-0078D4?style=flat&logo=microsoftoffice&logoColor=white" />
 </p>
 
@@ -135,13 +137,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanketBorkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanketBorkar&theme=radical&hide_border=true&background=0D1117&stroke=00A8FF&ring=00A8FF&fire=FF9900&currStreakLabel=00A8FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanketBorkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF" width="48%" onerror="this.style.display='none'" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanketBorkar&theme=radical&hide_border=true&background=0D1117&stroke=00A8FF&ring=00A8FF&fire=FF9900&currStreakLabel=00A8FF" width="48%" onerror="this.style.display='none'" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketBorkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00A8FF" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SanketBorkar&theme=radical&no-frame=true&row=1&column=4" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketBorkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00A8FF" width="45%" onerror="this.style.display='none'" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SanketBorkar&theme=radical&no-frame=true&row=1&column=4" width="50%" onerror="this.style.display='none'" />
 </p>
 
 ---
