@@ -26,11 +26,11 @@
       </ul>
     </td>
     <td align="center" width="40%">
-      <img src="https://avatars.githubusercontent.com/u/your-user-id?s=200" width="150" style="border-radius: 50%;" alt="Profile Picture" />
+      <img src="https://avatars.githubusercontent.com/u/185828115?s=200" width="150" style="border-radius: 50%;" alt="Profile Picture" />
       <br />
       <sub><strong>Sanket Borkar</strong><br />IT Executive Engineer</sub>
-     </td>
-   </tr>
+    </td>
+  </tr>
 </table>
 
 ---
