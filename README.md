@@ -29,8 +29,8 @@
       <img src="https://avatars.githubusercontent.com/u/185828115?s=200" width="150" style="border-radius: 50%;" alt="Profile Picture" />
       <br />
       <sub><strong>Sanket Borkar</strong><br />IT Executive Engineer</sub>
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 
 ---
@@ -134,20 +134,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanketBorkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF" width="48%" onerror="this.style.display='none'" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanketBorkar&theme=radical&hide_border=true&background=0D1117&stroke=00A8FF&ring=00A8FF&fire=FF9900&currStreakLabel=00A8FF" width="48%" onerror="this.style.display='none'" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketBorkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00A8FF" width="45%" onerror="this.style.display='none'" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SanketBorkar&theme=radical&no-frame=true&row=1&column=4" width="50%" onerror="this.style.display='none'" />
-</p>
-
----
-
 ## 🏆 Visitor Counter
 
 <p align="center">
@@ -173,8 +159,4 @@
 
 <p align="center">
   <i>"Bridging on-premise infrastructure with cloud innovation — one deployment at a time."</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
